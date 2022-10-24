@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T04:54:00.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ApaUimLuPJ_AXH8eCizU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T05:00:17.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0WsZcMST0qUtQTo9w5j1" version="20.5.1" type="github">
   <diagram id="isMFGIq3uwozENNasje-" name="Página-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,23 @@
         <mxCell id="PbL2O4Klxgj9bQFebWk_-4" value="Validar Usuario existente" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=18;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="PbL2O4Klxgj9bQFebWk_-3">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PbL2O4Klxgj9bQFebWk_-16" value="Nombre" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-3">
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-16" value="Nombre" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-30" value="Nombre" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-32" value="Descripción" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-39" value="Nombre" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-40" value="Descripción" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-11" target="PbL2O4Klxgj9bQFebWk_-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbL2O4Klxgj9bQFebWk_-11" value="Usuario" style="whiteSpace=wrap;html=1;align=center;strokeWidth=4;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="140" y="270" width="80" height="70" as="geometry" />
+          <mxGeometry x="60" y="500" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PbL2O4Klxgj9bQFebWk_-12" value="" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;strokeColor=none;fillColor=none;collapsible=0;strokeWidth=20;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="360" height="30" as="geometry" />
@@ -52,6 +64,37 @@
               <mxPoint x="540" y="290" />
               <mxPoint x="540" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-26" value="2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="502.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-27" value="Biblioteca a Crear" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=18;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="PbL2O4Klxgj9bQFebWk_-26">
+          <mxGeometry y="30" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-33" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-34" value="D2" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="PbL2O4Klxgj9bQFebWk_-33">
+          <mxGeometry width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-35" value="bibliotecas" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="PbL2O4Klxgj9bQFebWk_-33">
+          <mxGeometry x="65" y="3" width="58.499999999999986" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-36" value="Datos creación biblioteca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-27" target="PbL2O4Klxgj9bQFebWk_-33">
+          <mxGeometry x="0.5707" y="27" relative="1" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-37" value="3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-38" value="Biblioteca a Actualizar" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=18;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="PbL2O4Klxgj9bQFebWk_-37">
+          <mxGeometry y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbL2O4Klxgj9bQFebWk_-41" value="Datos actualizar Biblioteca" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbL2O4Klxgj9bQFebWk_-38" target="PbL2O4Klxgj9bQFebWk_-33">
+          <mxGeometry x="0.4483" y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
